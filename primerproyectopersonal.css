@@ -1,0 +1,45 @@
+body,html{
+    height: 100%;
+    background-color: grey;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
+ 
+    font-weight: lighter;  
+    text-align: center;
+    color: whitesmoke;
+        
+}
+
+h1{
+    margin: 20px;
+    font-size: 60px;
+    color: whitesmoke;
+}
+
+p{
+    margin: 10px;
+}
+
+
+input{
+    
+    color: grey;
+    
+    border: 0;
+   
+    display: block;
+    cursor: pointer;
+    border: 2px solid grey;
+    margin: 10px auto;
+    text-align: center;
+    padding: 14px 40 px;
+    outline: none;
+    color: grey;
+    transition: 0.25s;
+    border-radius: 20px;
+    
+}
