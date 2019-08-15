@@ -56,7 +56,7 @@ function devueltas(){
     }
     else if(precio > dinero){
 
-        resultadito.innerHTML = "Papi le dieron menos plata"  + "<br />";
+        resultadito.innerHTML = "El efectivo del cliente es menor al solicitado"  + "<br />";
     }
 
 }

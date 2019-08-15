@@ -1,7 +1,23 @@
 body,html{
     height: 100%;
-    background-color: grey;
+    
     font-family: 'Righteous', cursive;
+  background-color: black;
+  
+   
+}
+
+.border {
+
+    display: block;
+    border: 25px solid whitesmoke;
+    
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+    background: grey;
+
 }
 
 *{
@@ -44,3 +60,10 @@ input{
     border-radius: 20px;
     
 }
+
+.button {
+
+    padding: 10px 35px;;
+
+}
+
