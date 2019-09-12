@@ -45,14 +45,14 @@ function devueltas(){
  
     if(precio == dinero){
 
-        resultadito.innerHTML = "papi todo copas"  + "<br />";
+        resultadito.innerHTML = "Perfect"  + "<br />";
     }
      else if(precio < dinero) {
 
             vueltas = dinero - precio ;
         
 
-        resultadito.innerHTML =  "Estan son tus devueltas : " + vueltas + "<br />";
+        resultadito.innerHTML =  "Dinero Sobrante : " + vueltas + "<br />";
     }
     else if(precio > dinero){
 
